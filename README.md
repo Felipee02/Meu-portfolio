@@ -1,8 +1,8 @@
-# Meu-portfolio
+# Portfólio
 
 # Olá, eu sou Bryan Felipe 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de soluções digitais.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia.
 
 ## 🛠 Tecnologias que utilizo
 - Python
@@ -10,7 +10,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecn
 - HTML
 
 ## 💻 Projetos em destaque
-- **Calculadora Simples**: https://github.com/Felipee02/Primeiro-projeto---Calculadora
+- **Calculadora**: https://github.com/Felipee02/Primeiro-projeto---Calculadora
   Projeto de estudo para praticar lógica de programação e funções em Python.
 
 ## 📫 Contato
