@@ -1,6 +1,6 @@
 # Meu-portfolio
 
-# Olá, eu sou Felipe 👋
+# Olá, eu sou Bryan Felipe 👋
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de soluções digitais.
 
