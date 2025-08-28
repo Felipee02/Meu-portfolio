@@ -10,11 +10,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecn
 - HTML
 
 ## 💻 Projetos em destaque
-- **Calculadora Simples**: [link do repositório](https://github.com/Felipee02/Primeiro-projeto---Calculadora)  
+- **Calculadora Simples**: https://github.com/Felipee02/Primeiro-projeto---Calculadora
   Projeto de estudo para praticar lógica de programação e funções em Python.
 
 ## 📫 Contato
-- LinkedIn: [Meu Perfil](https://www.linkedin.com/in/seu-perfil)  
-- Email: seuemail@email.com
+- LinkedIn: www.linkedin.com/in/bryanfelipee  
+- Email: bryanfelipemr10@gmail.com
 
 > "Aprender é o primeiro passo para criar soluções incríveis!"
