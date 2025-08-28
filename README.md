@@ -7,8 +7,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecn
 ## 🛠 Tecnologias que utilizo
 - Python
 - Git e GitHub
-- HTML, CSS e JavaScript
-- SQL
+- HTML
 
 ## 💻 Projetos em destaque
 - **Calculadora Simples**: [link do repositório](https://github.com/Felipee02/Primeiro-projeto---Calculadora)  
